@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>The Enchanting Food Forest & Catopia</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="screen and (max-width: 800px)" 
+    href="tablet.css">
+    <link rel="stylesheet" media="screen and (max-width:530px)" href="phone.css">
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#youtube">Youtube</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>            
+        </ul>
+    </nav>
+
+    <section id="home">
+        <div class="main">
+            <h1 class="headings">I AM <br> PETER CROSS</h1>
+        <a href="https://paypal.com">   
+            <button class="btn">
+                Donate
+            </button>                    
+        </a>   
+        </div>
+    </section>
+
+    <section id="about">
+        <h1 class="headings">ABOUT ME</h1>
+        <div id="pic">
+            <img src="https://lh3.googleusercontent.com/yewBiLW4_xHo3HBbwMT8EOBz3TU9XM_73JDZZq0FblmPOVsLc2LSJ8bsdQ_HbqS_F4XqswAoB6OTsetMieyx_I72R8Z9_9r1IeAq-qHmk7s-gYjkltoG2wMwvqlf3JDLXt_uMZei2d1r457_MaEFFPueIGOxKi1Vx7hZ1g3r0z3eoX3cbdRi5ufDKc7glBabKupaYRrBkLx7EVGgh-jZKIE7jnisUCxvYkUy39E-lie9H3KBjUnFPnqj0iE-G0PgcdpAOjcAibjq_UexrT5vIl7yvgAR5JqBA1HHs_8DP4ZD_dvGUpRNM9LBl5G9mAu_6tXSAlWmXFSSuZCEgUoT-7AdMvc8LRvfUL3oS2IvN1sJEjTa6gsixWZWp_FYAfXt2_vTJh2YXTazMHwi_rSkaOGEG5iUgNM3QzoVQVbbNJz2ZowO7YqSKSQRUS56xf-pioxwJPpPD_49kBrIPebFYoyTlYk2R7AXLzWhuxXfCCs41ivYJ-FYTfVRw-nfW_5uWd_mUTy-bWuCtgzMOwweq-tNaiMeMBDskuzyftQIwvGVl1LpZg4vi6oRMVA1jkUrBzZAaA2avyFVnG4zU_M8DeLMFGCTvkYx1thfleHLAB16Vl4Yy2IK7un7287znybyAYZFS7c5uDVHposh6FJQJNIr27w8HbX6S9aO5o8UahwvJSNJl2UtWUbuwWOQQCJn4ABh3Mq2g5WzzUz6t6wck2khUen4Cv7Un_aM56MU75JmZR-5LD3u2qjxtWy8NzROgPfGOD_-6hiZzAbEgtBi3Xy9znneq2NPBIuViAxeu9cS-flLAhAw1hInfaZS7iG0vs7s9hqXlIt7zs3lTwZpr4IxNvd65FyXG7Ax_eSUxUwBqpijPLPi-XF0T7OmGWK7MeKA_jo5FevcfjIlbqJwTAR2PCHgOjKGy5nhtgUjGSqOUw-g=w568-h757-no?authuser=0.jpg" alt="">
+            <div id="intro">
+                <h2>PETER CROSS</h2>
+                <p>I have always loved animals. Some would say, "that's what a lot of people say who love animals."<br> I am building this organization because, I feel it is my obligation to protect life that cannot protect itself!<br>A lot of it stems from trauma in my childhood. Trauma as a boy that has driven me to build this organization <br>with all my might. One of the many traumas in my life as a child, was a time my family and I had to move under <br>extreme circumstances and in the process, we had to leave ALL of the animals we had behind.</p>
+                <br><p> We lived on a large piece of land at the time. Looking out of the back window of our vehicle as we drove away, <br>I saw the 32 dogs (along with the multiple cats and all the other animals we had) staring in confusion as to where <br>we were all going, as we drove away, never to see them again. It is as if the dogs knew something was not right, <br>and to this day, I have no idea whatever happened to those dogs or cats, or all the other animals we had.
+                This <br>included a horse, a cow and her calf, chickens, ducks and rabbits. It is a trauma that has taken time for me to <br>accept and embrace.</p>
+                </p>
+                <br><p>So... This organization that I am building, is a healing process. This organization and it's rescue's intent, are not <br>just towards cats! It is to expand in the (not so distant future) towards dogs and all other animals that need rescuing. <br>The Enchanting Food Forest & Catopia is a chance for stray cats to have food, shelter and veterinary care, and to <br>help with the infrastructure of the Dallas/Fort Worth area. So your support is desperately needed and appreciated. <br>Thank you, and God bless.</p>
+                <br>~Peter Cross
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="youtube">
+        <h1 class="headings">YOUTUBE</h1>
+        <div class="gallery">
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/1N8pkd_pRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/8n5S0CxjzV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/7C53XUScRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/N4C0Jy5HAE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/28OFd2zChlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="475" height="315" src="https://www.youtube.com/embed/oYlwlmlU9Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section id="services">
+        <h1 class="headings">SERVICES</h1>
+        <div class="row">
+            <div class="box">
+                <h1 class="headings">Enchanting Food Forest</h1>
+                <p>The Enchanting Food Forest is a safe haven for stray animals to live in peace, away from the dangers of living on the street. It is also an orgnanic produce and vegetables farm for consumption. The Enchanting Food Forest's produce is grown without the use of toxic pestisides. Special compost is used to keep agricultural pests away from the produce that is grown in the forest.</p>  
+            </div>
+            <div class="box">
+                <h1 class="headings">Catopia</h1>
+                <p>The Catopia is a sanctuary for urban and stray cats. It is a place of food and safety. But most importantly, it is a place of love! Here at the Catopia, cats can have a place where they will not go hungry and cold. A place where they will receive medical attention if and when needed. All the Catopia is doing is, building for urban/stray (as well as abused, neglected and abandoned cats), is a place where these furry friends can receive spay and neutering. Spaying and neutering is a very essential tool in reducing not just the pregnancy of urban/stray female cats, but also in reducing the loss of animal life on motorways and roads, while all being nestled in an enchanted food forest. Your help and support makes this all possible! The Catopia also does adoptions! Lets give our furry little friends a long happy, healthy, loving feline life!</p>
+            </div>
+        </div>        
+    </section>
+
+    <section id="contact">
+        <h1 class="headings">CONTACT</h1>
+        <form action="" class="form">
+            <a href="mailto:2stubborn2quit@gmail.com">EMAIL ME HERE</a>
+        </form>
+    </section>
+
+    <footer>
+        <div class="wrapper">
+            <nav>
+                <marquee>
+                  <span class="blink">Developed by David S. Cross of &trade;DC Creations 2023.</span></marquee>
+                </p>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+
+</html>
